@@ -1,0 +1,53 @@
+VIDEO FILES TO PLACE IN THIS SAME FOLDER
+
+Fitness:
+Fitness1.mp4, Fitness2.mp4, Fitness3.mp4, Fitness4.mp4, Fitness5.mp4, Fitness6.mp4, Fitness7.mp4
+
+Running:
+Running1.mp4, Running2.mp4, Running3.mp4, Running4.mp4, Running5.mp4
+
+Golf:
+Golf1.mp4, Golf2.mp4, Golf3.mp4, Golf4.mp4, Golf5.mp4
+
+Pickleball:
+Pickleball1.mp4, Pickleball2.mp4, Pickleball3.mp4, Pickleball4.mp4, Pickleball5.mp4
+
+Join:
+Join1.mp4 = hero
+Join2.mp4 = side hustle / opportunity
+Join3.mp4 = enrollment
+Join4.mp4 = Share • Connect • Build
+
+The first video on each page autoplays muted and loops. It also has controls so visitors can turn on sound.
+All remaining videos are click-to-play with controls.
+
+
+DISPLAY UPDATE
+All video containers are now forced to an exact responsive 9:16 vertical aspect ratio on every page.
+
+
+SOUND CONTROL UPDATE
+The first autoplay video on every page now has a large visible TAP FOR SOUND button. Clicking it unmutes the video; clicking again mutes it.
+
+
+PLAYBACK UPDATE
+All videos now work the same way:
+- No autoplay
+- No looping
+- Click/tap Play to start
+- Normal video controls are available, including volume, pause, seek and fullscreen
+- Videos retain their 9:16 vertical display
+
+
+LARGE PLAY BUTTON UPDATE
+Every video now displays a large centered CLICK OR TAP TO PLAY overlay.
+The overlay disappears while the video plays.
+If paused, the play overlay returns.
+When the video finishes, it changes to CLICK OR TAP TO REPLAY.
+Videos do not autoplay or loop.
+
+
+PERSONAL TRAINER PAGE
+PersonalTrainer1.mp4, PersonalTrainer2.mp4, PersonalTrainer3.mp4, PersonalTrainer4.mp4, PersonalTrainer5.mp4
+
+All Personal Trainer videos use the same large CLICK OR TAP TO PLAY overlay and 9:16 vertical display as the rest of the site.
