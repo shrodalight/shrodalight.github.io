@@ -1,4 +1,4 @@
-# Winning With X39
+# ShrodaLight
 
 Static multi-page website prepared for GitHub Pages.
 
